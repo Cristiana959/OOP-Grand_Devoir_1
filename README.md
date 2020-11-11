@@ -1,22 +1,22 @@
+
 # Meme Land 
 
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
 
-Game made for the OOP Course at FILS 
+### Game made for the OOP Course at FILS ###
 
-###Authors :
+### Authors :**strong text**
 - Andrei Cristiana / @Cristiana959
 - Nae Sebastian / @Sebastian2000
 
 ### Controls
-|WASD - for movement around the map|
-|X - attacking/item when in battle|
-|Z - defense when in battle|
-|I - show inventory|
-|ID -show detailed inventory|
-|R - completly exit|
-|stop - stop de game|
-
+ - [ WASD ]  for movement around the map
+ - [ X ]  attacking/item when in battle
+ - [ Z ] defense when in battle
+ - [ I ]  show inventory
+ - [ ID ] show detailed inventory
+ - [ R ] completly exit
+ - [ stop ] stop de game
 
 ### Character : 
 There are 2 characters : 
