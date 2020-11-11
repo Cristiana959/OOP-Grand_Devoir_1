@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="GrandDevoir1:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/GrandDevoir1_jar</output-path>
+    <root id="archive" name="GrandDevoir1.jar">
+      <element id="module-output" name="GrandDevoir1" />
+    </root>
+  </artifact>
+</component>
